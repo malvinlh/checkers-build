@@ -1,5 +1,5 @@
-# Checkers-Game
-Playable checkers game (created as the second training for 2023 Schematics NLC's Game Development staff). Go to https://malvinlh.github.io/Checkers-Game/ to play the game.
+# Checkers Game Made by Unity
+Playable checkers game (created as the second training for 2023 Schematics NLC's Game Development staff). Go to [https://malvinlh.github.io/checkers-build/](https://malvinlh.github.io/checkers-build/) to play the game.
 
 The rules of the game:
 1. Black pieces always go first.
